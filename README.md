@@ -1,6 +1,3 @@
-
-
-````markdown
 # Razorpay Clone
 
 This project is a **frontend clone of the Razorpay website**, created as part of a web development bootcamp. It replicates the layout and visual design of the original Razorpay homepage using **HTML5** and **Tailwind CSS**.
@@ -29,7 +26,7 @@ Follow these steps to run the project locally:
 
 ```bash
 git clone https://github.com/pranalichakor/razorpay-clone.git
-````
+
 
 ### 2. Navigate to the Project Directory
 
