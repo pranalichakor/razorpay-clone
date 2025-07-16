@@ -28,7 +28,6 @@ Follow these steps to run the project locally:
 git clone https://github.com/pranalichakor/razorpay-clone.git
 
 
-### 2. Navigate to the Project Directory
 
 ```bash
 cd razorpay-clone
